@@ -1,0 +1,8 @@
+Please open vmwareworkstation and click on Open Virtual machine and go to D drive-->RHEL folder and select the VM
+
+Click on Power On option and once you power on the VM click on "I Copied it" pop up
+User-     RHEL01
+password- root
+
+User-     root
+password- root
